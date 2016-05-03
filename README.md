@@ -46,7 +46,7 @@ This is not a seed project to be taken cart blanche and deployed to your product
 
 Note: This sample is used for understanding how oauth works
 
-- Configure the app tokens: Go to your app on developer.intuit.com and copy the OAuth Consumer Key and OAuth Consumer Token from the keys tab. Add these values to the app.properties file in our OauthSample folder.
+- Configure the app tokens: Go to your app on developer.intuit.com and copy the OAuth Consumer Key and OAuth Consumer Token from the keys tab. Add these values to the web.config file in our OauthSample folder.
 
 - Build and Run the code using Visual Studio
 
